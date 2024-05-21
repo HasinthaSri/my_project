@@ -4,4 +4,4 @@ it calculates the area of a Rectangle.
 The User has to input Length and the Width
 
 Added unit functionality for version-1.1
-Added unit functionality for version-1.2
+Added Perimiter functionality for version-1.2
